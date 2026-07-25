@@ -10,7 +10,7 @@
 
 ---
 
-![Price Distribution Banner](assets/price_d.png)
+![Price Distribution Banner](Assets_s/price_dist.png)
 
 ---
 
@@ -56,13 +56,13 @@ The project relies on an automated, multi-stage ETL (Extract, Transform, Load) p
 ## Visualizations & Interface
 
 ### Price Distribution & Discount Depth
-![Price Distribution](assets/price_dist.png)
+![Price Distribution](Assets_s/price_d.png)
 
 * **Base Prices:** Ranging from 115 ₽ to 101,364 ₽.
 * **Discount Prices:** Ranging from 53 ₽ to 90,000 ₽.
 
 ### Marketplace Distribution & Seller Ecosystem
-![Marketplace Share and Top Sellers](assets/cats.png)
+![Marketplace Share and Top Sellers](Assets_s/cats.png)
 
 * **Platform Coverage:** Distribution analysis across mass market platforms and specialized brand stores.
 * **Licensing Network:** Mapping of 292 unique sellers and 31 licensed brands represented in the dataset.
