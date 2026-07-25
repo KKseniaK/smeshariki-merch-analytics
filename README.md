@@ -24,8 +24,6 @@ Developed as a university project centered on automated data ingestion, data qua
 
 ## Dataset Overview & Sources
 
-> *"Analyzing 2,962 unique product listings across 5 distinct retail channels..."*
-
 The final aggregated dataset covers **2,962 unique product items** and **20 features** collected across 5 primary sources:
 
 * **Major E-Commerce Platforms:** Wildberries, Ozon.
